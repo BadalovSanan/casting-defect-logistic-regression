@@ -10,3 +10,4 @@ I created this project to test my knowledge on what i learned from ML Specializa
 | 6 July | Initializing the Project |
 | 6 July | Added Logistic Regression model with HOG features and GridSearchCV |
 | 6 July | Restart Kernel -> Run All |
+| 6 July | Added Markdown Cells |
