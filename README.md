@@ -8,3 +8,4 @@ I created this project to test my knowledge on what i learned from ML Specializa
 | Date | Commit |
 |------|--------|
 | 6 July | Initializing the Project |
+| 6 July | Added Logistic Regression model with HOG features and GridSearchCV |
