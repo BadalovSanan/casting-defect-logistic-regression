@@ -63,7 +63,9 @@ Source: - [Casting_512x512](https://www.kaggle.com/datasets/ravirajsinh45/real-l
 | 6 July | Added Markdown Cells |
 | 6 July | Finalized the Project by finishing README |
 | 8 July | Adding My Linear Regression Project to README |
+| 9 July | Adding My Credit Card Customer Segmentation Project to README |
 
 ## Link to other repositories i have
 - [My Student Pass/Fail ML Project](https://github.com/BadalovSanan/My-StudentPassFail-ML-Project)
 - [Predicting Concrete Compressive Strength](https://github.com/BadalovSanan/concrete-strength-linear-regression/tree/main)
+- [Credit Card Customer Segmentation](https://github.com/BadalovSanan/credit-card-customer-segmentation/tree/main)
