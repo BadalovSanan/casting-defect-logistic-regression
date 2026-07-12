@@ -64,11 +64,13 @@ Source: - [Casting_512x512](https://www.kaggle.com/datasets/ravirajsinh45/real-l
 | 6 July | Finalized the Project by finishing README |
 | 8 July | Adding My Linear Regression Project to README |
 | 9 July | Adding My Credit Card Customer Segmentation Project to README |
-| 10 July | Adding My Network Intrusion Detection with Random Forest & XGBoost |
+| 10 July | Adding My Network Intrusion Detection with Random Forest & XGBoost Project |
 | 10 July | Fixin Project Name |
+| 12 July | Adding My Predictive Maintenance Anomaly Detection Project |
 
 ## Link to other repositories i have
 - [My Student Pass/Fail ML Project](https://github.com/BadalovSanan/My-StudentPassFail-ML-Project)
 - [Concrete Strength Linear Regression](https://github.com/BadalovSanan/concrete-strength-linear-regression)
 - [Credit Card Customer Segmentation](https://github.com/BadalovSanan/credit-card-customer-segmentation)
 - [Network Intrusion Detection with Random Forest & XGBoost](https://github.com/BadalovSanan/Network-Intrusion-Detection-with-Random-Forest-and-XGBoost)
+- [Predictive Maintenance Anomaly Detection Project](https://github.com/BadalovSanan/Predictive-Maintenance-Anomaly-Detection)
