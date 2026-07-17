@@ -67,6 +67,7 @@ Source: - [Casting_512x512](https://www.kaggle.com/datasets/ravirajsinh45/real-l
 | 10 July | Adding My Network Intrusion Detection with Random Forest & XGBoost Project |
 | 10 July | Fixin Project Name |
 | 12 July | Adding My Predictive Maintenance Anomaly Detection Project |
+| 17 July | Adding My Retail Recommender System Project |
 
 ## Link to other repositories i have
 - [My Student Pass/Fail ML Project](https://github.com/BadalovSanan/My-StudentPassFail-ML-Project)
@@ -74,3 +75,4 @@ Source: - [Casting_512x512](https://www.kaggle.com/datasets/ravirajsinh45/real-l
 - [Credit Card Customer Segmentation](https://github.com/BadalovSanan/credit-card-customer-segmentation)
 - [Network Intrusion Detection with Random Forest & XGBoost](https://github.com/BadalovSanan/Network-Intrusion-Detection-with-Random-Forest-and-XGBoost)
 - [Predictive Maintenance Anomaly Detection Project](https://github.com/BadalovSanan/Predictive-Maintenance-Anomaly-Detection)
+- [Retail Recommender System](https://github.com/BadalovSanan/retail-recsys)
